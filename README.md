@@ -1,6 +1,6 @@
 # RollwithClassifieds.com
 
-This is a suite of eco-friendly classifieds websites.
+This is a suite of eco-friendly classifieds websites and apps.
 
 ## RollwithRealestate.com
 
